@@ -1,3 +1,3 @@
 # Project04_CurrencyConverter
- npx  testing-shayan-currencyconverter
+ npx currencyconverter-shayan
 
